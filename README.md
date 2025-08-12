@@ -80,10 +80,15 @@ In the sidebar:
 FOLDER STRUCTURE:
 ---------------------------------------------------------
 app.py                -> Main application script
+
 uploads/              -> Stores uploaded documents
+
 chroma_store/         -> Persistent Chroma database
+
 requirements.txt      -> List of dependencies
+
 .env                  -> API keys and environment variables
+
 readme.txt            -> Project documentation
 
 ---------------------------------------------------------
