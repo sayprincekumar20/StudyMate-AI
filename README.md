@@ -91,9 +91,6 @@ requirements.txt      -> List of dependencies
 
 readme.txt            -> Project documentation
 
----------------------------------------------------------
-LICENSE:
----------------------------------------------------------
-MIT License - Free to use and modify.
+
 
 =========================================================
